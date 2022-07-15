@@ -13,7 +13,7 @@ async def on_command_error(ctx, error):
 
 
 @bot.command()
-async def えへっ(ctx):
+async def えへっ (ctx):
     await ctx.send('「えへっ」てなんだよ！！')
 
 @bot.command()
